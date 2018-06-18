@@ -42,3 +42,5 @@ Route::get('/thanh-toan', function () {
 Route::get('/tien-do', function () {
     return view('page.progress');
 })->name('progress');
+
+Route::post('/gui-mail', 'MailController@send')->name('mail');
