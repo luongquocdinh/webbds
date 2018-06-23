@@ -5,6 +5,11 @@ namespace App\Http\Controllers\Auth;
 use App\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\AuthenticatesUsers;
 use Illuminate\Http\Request;
+use Validator;
+use Illuminate\Support\Facades\Input;
+use Redirect;
+use App\User;
+use Auth;
 
 class LoginController extends Controller
 {
@@ -26,7 +31,7 @@ class LoginController extends Controller
      *
      * @var string
      */
-    protected $redirectTo = '/admin/dashboard';
+    protected $redirectTo = '/admin/gioi-thieu';
 
     /**
      * Create a new controller instance.
@@ -44,6 +49,36 @@ class LoginController extends Controller
         return view('admin.auth.login', compact('title'));
     }
 
+    public function doLogin(Request $request)
+    {
+        $rules = array(
+            'email'    => 'required', // make sure the email is an actual email
+            'password' => 'required' // password can only be alphanumeric and has to be greater than 3 characters
+        );
+        
+        // run the validation rules on the inputs from the form
+        $validator = Validator::make($request->all(), $rules);
+        
+        // if the validator fails, redirect back to the form
+        if ($validator->fails()) {
+            return Redirect::to('login')
+                ->withErrors($validator) // send back all errors to the login form
+                ->withInput(Input::except('password')); // send back the input (not the password) so that we can repopulate the form
+        } else {
+            $data = [
+                'email' => $request->email,
+                'password' => $request->password
+            ];
+
+            if (Auth::attempt($data)) {
+                return redirect()->route('main.add');
+            } else {
+                return Redirect::to('login');
+            }
+            
+        }
+    }
+
     /**
      * Log the user out of the application.
      *
@@ -56,7 +91,7 @@ class LoginController extends Controller
 
         $request->session()->invalidate();
 
-        return redirect(route('lockscreen'));
+        return redirect(route('login'));
     }
 
     public function lockscreen(Request $request)

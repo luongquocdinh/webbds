@@ -40,7 +40,7 @@
             <li class="dropdown user user-menu">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                     <img src="{{asset('admin')}}/dist/img/user2-160x160.jpg" class="user-image" alt="User Image">
-                    <span class="hidden-xs">{{ (\Illuminate\Support\Facades\Auth::check()) ? \Illuminate\Support\Facades\Auth::user()->name : null }}</span>
+                    <span class="hidden-xs">ADMIN</span>
                 </a>
                 <ul class="dropdown-menu">
                     <!-- User image -->
@@ -53,14 +53,10 @@
                     <!-- Menu Footer-->
                     <li class="user-footer">
                         <div class="pull-left">
-                            <a href="{{ url('quan-tri/nhan-vien/ho-so') }}"
-                               class="btn btn-default btn-flat">Thông Tin</a>
-                        </div>
-                        <div class="pull-right">
                             <a href="#" class="btn btn-default btn-flat"
-                               onclick="event.preventDefault(); document.getElementById('logout-form').submit();">{{ __('label.sign_out') }}</a>
+                               onclick="event.preventDefault(); document.getElementById('logout-form').submit();">Logout</a>
                         </div>
-                        <form id="logout-form" action="#" method="POST" style="display: none;">
+                        <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
                             {{ csrf_field() }}
                         </form>
                     </li>

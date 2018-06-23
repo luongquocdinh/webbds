@@ -11,19 +11,20 @@
 |
 */
 
-\Illuminate\Support\Facades\Auth::routes();
-
-// Route::group(['prefix' => 'admin'], function () {
-//     Route::get('/', function () {
-//         return redirect(\route('login'));
-//     });
-// });
-
 Route::get('/login', function () {
-    return view('admin.auth.login');
+    return redirect(\route('login'));
 });
 
-Route::group(['prefix' => 'admin'], function () {
+Route::post('/logout', 'Auth\LoginController@logout')->name('logout');
+
+Route::post('/doLogin', 'Auth\LoginController@doLogin')->name('doLogin');
+
+\Illuminate\Support\Facades\Auth::routes();
+
+
+
+Route::group(['prefix' => 'admin', 'middleware' => ['auth']], function () {
+    
     Route::get('them-bai', 'IndexController@index')->name('main.add');
     Route::post('store', 'IndexController@add')->name('main.store');
     Route::group(['prefix' => 'gioi-thieu'], function () {
@@ -33,7 +34,7 @@ Route::group(['prefix' => 'admin'], function () {
         Route::get('status/{id}', 'IntroduceController@status')->name('introduce.status');
     });
     
-    Route::group(['prefix' => 'vi-tri'], function () {
+    Route::group(['prefix' => 'vi-tri', 'middleware'], function () {
         Route::get('/', 'LocationController@index')->name('location.index');
         Route::get('detail/{id}', 'LocationController@detail')->name('location.edit');
         Route::post('detail/{id}', 'LocationController@detail')->name('location.update');
@@ -97,3 +98,7 @@ Route::get('/nha-mau', 'ModelsController@client')->name('models');
 Route::get('/thanh-toan', 'PaymentController@client')->name('payment');
 
 Route::get('/tien-do', 'ProgressController@client')->name('progress');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
