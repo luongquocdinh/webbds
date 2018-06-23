@@ -10,20 +10,20 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black" />
     <meta name="format-detection" content="telephone=no" />
-    <title>BÁN DỰ ÁN CĂN HỘ CHARMINGTON IRIS QUẬN 4 LH 0937098890 GIÁ GỐC CĐT</title>
+    <title>BÁN DỰ ÁN CĂN HỘ CHARMINGTON IRIS QUẬN 4 LH 0901257979 GIÁ GỐC CĐT</title>
     
     <!-- This site is optimized with the Yoast SEO plugin v7.5.1 - https://yoast.com/wordpress/plugins/seo/ -->
     <meta name="description" content="Giới Thiệu Dự Án Căn Hộ Chung Cư Charmington Iris Quận 4: Giá Bán, Tiến Độ, Thiết Kế, Mặt Bằng, Chính Sách, Pháp Lý Chủ Đầu Can Ho Charmington Iris. Chuyên nhận mua bán ký gửi, cho thuê, bán lại, thiết kế nội thất căn hộ Charmington Iris Q4 Giá bán tốt nhất dự án Sacomreal"/>
     <link rel="canonical" href="http://thecharmingtoniris.com/" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="BÁN DỰ ÁN CĂN HỘ CHARMINGTON IRIS QUẬN 4 LH 0937098890 GIÁ GỐC CĐT" />
+    <meta property="og:title" content="BÁN DỰ ÁN CĂN HỘ CHARMINGTON IRIS QUẬN 4 LH 0901257979 GIÁ GỐC CĐT" />
     <meta property="og:description" content="Giới Thiệu Dự Án Căn Hộ Chung Cư Charmington Iris Quận 4: Giá Bán, Tiến Độ, Thiết Kế, Mặt Bằng, Chính Sách, Pháp Lý Chủ Đầu Can Ho Charmington Iris. Chuyên nhận mua bán ký gửi, cho thuê, bán lại, thiết kế nội thất căn hộ Charmington Iris Q4 Giá bán tốt nhất dự án Sacomreal" />
     <meta property="og:url" content="http://thecharmingtoniris.com/" />
     <meta property="og:site_name" content="Charmington Iris" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description" content="Giới Thiệu Dự Án Căn Hộ Chung Cư Charmington Iris Quận 4: Giá Bán, Tiến Độ, Thiết Kế, Mặt Bằng, Chính Sách, Pháp Lý Chủ Đầu Can Ho Charmington Iris. Chuyên nhận mua bán ký gửi, cho thuê, bán lại, thiết kế nội thất căn hộ Charmington Iris Q4 Giá bán tốt nhất dự án Sacomreal" />
-    <meta name="twitter:title" content="BÁN DỰ ÁN CĂN HỘ CHARMINGTON IRIS QUẬN 4 LH 0937098890 GIÁ GỐC CĐT" />
+    <meta name="twitter:title" content="BÁN DỰ ÁN CĂN HỘ CHARMINGTON IRIS QUẬN 4 LH 0901257979 GIÁ GỐC CĐT" />
     <script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/thecharmingtoniris.com\/","name":"Charmington Iris","potentialAction":{"@type":"SearchAction","target":"http:\/\/thecharmingtoniris.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
     <!-- / Yoast SEO plugin. -->
     
@@ -57,7 +57,7 @@
     <link rel='stylesheet' id='wp-pagenavi-css'  href='{{ asset('client') }}/css/pagenavi-css.css' type='text/css' media='all' />
     <link rel='stylesheet' id='htgbds-bootstrap-css'  href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css?ver=4.9.6' type='text/css' media='all' />
     <link rel='stylesheet' id='htgbds-icons-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css?ver=4.9.6' type='text/css' media='all' />
-    <link rel='stylesheet' id='htgbds-style-css'  href='{{ asset('client') }}/css/style.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='htgbds-style-css'  href='{{ asset('client') }}/css/style.css?v=<?=time();?>' type='text/css' media='all' />
     <script type='text/javascript' src='{{ asset('client') }}/js/md5.js'></script>
     <script type='text/javascript' src='{{ asset('client') }}/js/util.js'></script>
     <script type='text/javascript' src='{{ asset('client') }}/js/greensock.js'></script>

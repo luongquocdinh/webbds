@@ -38,75 +38,32 @@
             <div class=" row  ">
                 <div id="contentPost" class="col-md-8">
                     <main id="main" class="site-main" role="main">
-                        <article id="post-871" class="post-871 post type-post status-publish format-standard has-post-thumbnail hentry category-charmington-iris">
-                            <header class="entry-header page-header">
-                                <h1 class="entry-title ">CHARMINGTON IRIS PHƯƠNG THỨC THANH TOÁN</h1>
-                                <span class="linehome"></span>
-                                <div class="clearfix"></div>
-                            </header>
-                            <!-- .entry-header -->
-                            <div class="entry-content">
-                                <p style="text-align: justify;">
-                                    <strong>Phương thức thanh toán dự án căn hộ chung cư Charmington Iris Quận 4 sẽ được cập nhập liên tục tại danh mục Charmington
-                                        Iris Quận 4.</strong> Thông thường thì tiến độ thanh toán sẽ được thay đổi theo tháng và theo tiến độ công trình
-                                    nên
-                                    <a href="{{ route('home') }}">tiến độ thanh toán dự án căn hộ Charmington Iris</a> cũng sẽ được thay đổi.</p>
-                                <p style="text-align: justify;">
-                                    <strong>Phương thức thanh toán và ưu đãi bán hàng căn hộ Charmington Iris tháng 05/2018 được cập nhập sau đây:</strong>
-                                </p>
-                                <p style="text-align: justify;">CHƯƠNG TRÌNH BÁN HÀNG CHARMINGTON IRIS – QUÝ 2/2018</p>
-                                <p>&#8230;</p>
-                                <p style="text-align: justify;">Ngoài sự đầu tư mạnh về vốn từ những nhà chuyên gia về Bất Động Sản, Charmington Iris tự tin là dự án mạnh và lớn
-                                    nhất hiện nay, kèm theo đó là những hình thức về vay và mua căn hộ cũng dễ dàng hơn nhiều, mỗi lần thanh toán sẽ
-                                    được chia theo tiến độ dự án, điều này sẽ làm cho cư dân đầu tư vào sản phẩm này cảm thấy an toàn hơn.</p>
-                                <p style="text-align: justify;">Quý anh/chị cần được hỗ trợ về chính sách và giá bán tốt nhất hiện tại và mới nhất hay gọi
-                                    <span style="color: #ff0000;">
-                                        <strong>0901.257.979</strong>
-                                    </span> để hỗ trợ quý anh/chị dự án nhanh nhất và chính xác nhất.</p>
-                                <p style="text-align: center;">
-                                    <span style="color: #ff0000;">
-                                        <strong>NHẬN MUA BÁN – KÝ GỬI – CHO THUÊ THIẾT KẾ NỘI THẤT CĂN HỘ CHARMINGTON IRIS QUẬN 4</strong>
-                                    </span>
-                                </p>
-                                <p>
-                                    <strong>Thông tin chi tiết bán hàng vui lòng liên hệ bộ phận chăm sóc bán hàng dự án Charmington Iris</strong>
-                                </p>
-                                <p>
-                                    <em>Địa chỉ: 66 Nguyễn Ngọc Phương, Phường 19, Quận Bình Thạnh, Tp Hồ Chí Minh.</em>
-                                </p>
-                                <p>
-                                    <em>Chăm sóc khách hàng căn hộ Charmington Iris : </em>
-                                    <span style="color: #ff0000;">
-                                        <strong>0901.257.979</strong>
-                                    </span>
-                                    <em> </em>
-                                    <em>(Phone, Viber, Zalo, iMessage, Wechat, Whatsapp)</em>
-                                </p>
-                                <p>
-                                    <em>Website : </em>
-                                    <a href="{{ route('home') }}">charmingtonirisvietnam.com</a>
-                                </p>
-                                {{-- <p style="text-align: center;">
-                                    <em>Hoặc đăng ký nhận bảng giá, tiến độ dự án Charmington Iris Quận 4 tại đây</em>
-                                </p> --}}
-                            </div>
-                            <!-- .entry-content -->
+                        @if (isset($detail))
+                            <article id="post-858" class="post-858 post type-post status-publish format-standard has-post-thumbnail hentry category-charmington-iris tag-ban-can-ho-charmington-iris tag-can-ho-charmington-iris tag-charmington-iris tag-chung-cu-charmington-iris tag-du-an-charmington-iris tag-gioi-thieu-charmington-iris">
+                                <header class="entry-header page-header">
+                                    <h1 class="entry-title ">{{ $detail->title }}</h1>
+                                    <span class="linehome"></span>
+                                    <div class="clearfix"></div>
+                                </header>
+                            
+                                {!! base64_decode($detail->content) !!}
 
-                            <script type="text/javascript">
+                                <script type="text/javascript">
 
-                                // Javascript to enable link to tab
-                                var url = document.location.toString();
-                                if (url.match('#')) {
-                                    jQuery('.nav-tabs a[href="#' + url.split('#')[1] + '"]').tab('show');
-                                }
+                                    // Javascript to enable link to tab
+                                    var url = document.location.toString();
+                                    if (url.match('#')) {
+                                        jQuery('.nav-tabs a[href="#' + url.split('#')[1] + '"]').tab('show');
+                                    }
 
-                                // Change hash for page-reload
-                                jQuery('.nav-tabs a').on('shown.bs.tab', function (e) {
-                                    window.location.hash = e.target.hash;
-                                })
+                                    // Change hash for page-reload
+                                    jQuery('.nav-tabs a').on('shown.bs.tab', function (e) {
+                                        window.location.hash = e.target.hash;
+                                    })
 
-                            </script>
-                        </article>
+                                </script>
+                            </article>
+                        @endif
                         <!-- #post-## -->
                         {{-- <div class="fYeuCau">
                             <h3>Điền thông tin để nhận báo giá trong 5'</h3>

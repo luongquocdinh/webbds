@@ -11,5 +11,18 @@ class Controller extends BaseController
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 
-    const mail = 'luongquocdinh.95@gmail.com';
+    const mail = 'vuongphat.charmingtoniris@gmail.com';
+
+    const PAGE = 10;
+
+    const DISABLE = 0;
+    const ENABLE = 1;
+
+    const INTRODUCE = 1;
+    const LOCATION = 2;
+    const UTILITY = 3;
+    const GROUND = 4;
+    const MODELS = 5;
+    const PAYMENT = 6;
+    const PROGRESS = 7;
 }

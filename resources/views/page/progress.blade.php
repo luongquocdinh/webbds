@@ -39,93 +39,32 @@
                 <div id="contentPost" class="col-md-8">
                     <main id="main" class="site-main" role="main">
 
-                        <article id="post-401" class="post-401 post type-post status-publish format-standard hentry category-tien-do tag-tien-do-charmington-iris-quan-4 tag-tien-do-du-an-charmington-iris-quan-4 tag-tien-do-xay-dung-charmington-iris-quan-4 tag-tin-tuc-charmington-iris-quan-4">
-                            <header class="entry-header page-header">
-                                <h1 class="entry-title ">Tiến độ xây dựng dự án căn hộ Charmington Iris Quận 4 Tháng 10/2017</h1>
-                                <span class="linehome"></span>
-                                <div class="clearfix"></div>
-                            </header>
-                            <!-- .entry-header -->
-                            <div class="entry-content">
-                                <p>
-                                    <strong>Tiến độ xây dựng dự án căn hộ Charmington Iris vị trí 76 Tôn Thất Thuyết, phường 18, Quận 4 tháng 10/2017 sẽ được
-                                        cập nhập liên tục tại danh mục
-                                        <span style="color: #3366ff;">
-                                            <a href="{{ route('progress') }}">TIẾN ĐỘ CHARMINGTON IRIS</a>
-                                        </span>. </strong>
-                                </p>
-                                <p>Quý anh/chị cần chúng tôi hỗ trợ cập nhập tiến độ thường xuyên thông qua mail, Viber, Zalo, Wechat, Whatsapp vui
-                                    lòng liên hệ qua Hotline chúng tôi:
-                                    <em> </em>
-                                    <span style="color: #ff0000;">
-                                        <strong>0901.257.979</strong>
-                                    </span>
-                                </p>
-                                <p style="text-align: center;">
-                                    <strong>Tiến độ tháng 01/10/2017
-                                        <a href="{{ route('home') }}">dự án căn hộ Charmington Iris</a>:</strong>
-                                </p>
-                                <div id="attachment_402" style="width: 830px" class="wp-caption alignnone">
-                                    <img class="size-full wp-image-402" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/le-khoi-cong-xay-dung-du-an-can-ho-charmington-iris-quan-4-tien-do-xay-dung-thang-10-2017-hinh-02.jpg"
-                                    alt="Lễ khỏi công dự án căn hộ Charmington Iris Quận 4 tháng 10/2017" width="820" height="547" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/le-khoi-cong-xay-dung-du-an-can-ho-charmington-iris-quan-4-tien-do-xay-dung-thang-10-2017-hinh-02.jpg 820w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/le-khoi-cong-xay-dung-du-an-can-ho-charmington-iris-quan-4-tien-do-xay-dung-thang-10-2017-hinh-02-300x200.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/le-khoi-cong-xay-dung-du-an-can-ho-charmington-iris-quan-4-tien-do-xay-dung-thang-10-2017-hinh-02-768x512.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/le-khoi-cong-xay-dung-du-an-can-ho-charmington-iris-quan-4-tien-do-xay-dung-thang-10-2017-hinh-02-180x120.jpg 180w"
-                                    sizes="(max-width: 820px) 100vw, 820px" />
-                                    <p class="wp-caption-text">Lễ khỏi công dự án căn hộ Charmington Iris Quận 4 tháng 10/2017
-                                        <strong> &#8211; Nhận mua bán và ký gửi Charmington Iris
-                                            <span style="color: #ff0000;">0901.257.979</span>
-                                        </strong>
-                                    </p>
-                                </div>
-                                <div id="attachment_403" style="width: 830px" class="wp-caption alignnone">
-                                    <img class="size-full wp-image-403" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/le-khoi-cong-xay-dung-du-an-can-ho-charmington-iris-quan-4-tien-do-xay-dung-thang-10-2017-hinh-01.jpg"
-                                    alt="Lễ khỏi công dự án căn hộ Charmington Iris Quận 4 tháng 10/2017" width="820" height="546" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/le-khoi-cong-xay-dung-du-an-can-ho-charmington-iris-quan-4-tien-do-xay-dung-thang-10-2017-hinh-01.jpg 820w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/le-khoi-cong-xay-dung-du-an-can-ho-charmington-iris-quan-4-tien-do-xay-dung-thang-10-2017-hinh-01-300x200.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/le-khoi-cong-xay-dung-du-an-can-ho-charmington-iris-quan-4-tien-do-xay-dung-thang-10-2017-hinh-01-768x511.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/le-khoi-cong-xay-dung-du-an-can-ho-charmington-iris-quan-4-tien-do-xay-dung-thang-10-2017-hinh-01-180x120.jpg 180w"
-                                    sizes="(max-width: 820px) 100vw, 820px" />
-                                    <p class="wp-caption-text">Lễ khỏi công dự án căn hộ Charmington Iris Quận 4 tháng 10/2017
-                                        <strong> &#8211; Nhận mua bán và ký gửi Charmington Iris
-                                            <span style="color: #ff0000;">0901.257.979</span>
-                                        </strong>
-                                    </p>
-                                </div>
-                                <p style="text-align: justify;">Tiến độ xây dựng dự án căn hộ Charmington Iris Quận 4 chủ đầu tư TTC Land sẽ được cập nhập thường xuyên liên tục
-                                    tại danh mục
-                                    <strong>Tiến độ Charmington Iris.</strong> Quý anh/chị cần hỗ trợ thông tin về tiến độ dự án Charmington Iris vui lòng
-                                    liên hệ qua Điện thoại, Viber, Zalo hoặc Wechat qua số điện thoại dự án.</p>
-                                <p style="text-align: justify;">Quý anh/chị cần hỗ trợ mua bán lại căn hộ Charmington Iris vui lòng nhắn thông tin mã căn hộ Charmington Iris muốn
-                                    bán lại ví dụ ( Mã căn, Giá hợp đồng , giá bán lại, ngày ký hợp đồng…) Hoặc nhắn tin hoặc gọi điện qua
-                                    <span style="color: #ff0000;">
-                                        <strong>0901.257.979</strong>
-                                    </span> để chúng tôi hướng dẫn nhé.</p>
-                                <p style="text-align: center;">
-                                    <strong> </strong>
-                                    <span style="color: #ff0000;">
-                                        <strong>NHẬN MUA BÁN KÝ GỬI – CHO THUÊ – THIẾT KẾ NỘI THẤT CĂN HỘ CHARMINGTON IRIS QUẬN 4</strong>
-                                    </span>
-                                </p>
-                                <p>
-                                    <strong>Hotline: </strong>
-                                    <strong>
-                                        <span style="color: #ff0000;">0901.257.979</span>
-                                    </strong>
-                                    <em>(Phone, SMS, Viber, Zalo, Whatsapp, Wechat)</em>
-                                </p>
-                                {{-- <p style="text-align: center;">Hoặc đăng ký nhận bảng tin tiến độ xây dựng Charmington Iris thường xuyên tại form mẫu dưới đây.</p> --}}
-                            </div>
-                            <!-- .entry-content -->
+                        @if (isset($detail))
+                            <article id="post-858" class="post-858 post type-post status-publish format-standard has-post-thumbnail hentry category-charmington-iris tag-ban-can-ho-charmington-iris tag-can-ho-charmington-iris tag-charmington-iris tag-chung-cu-charmington-iris tag-du-an-charmington-iris tag-gioi-thieu-charmington-iris">
+                                <header class="entry-header page-header">
+                                    <h1 class="entry-title ">{{ $detail->title }}</h1>
+                                    <span class="linehome"></span>
+                                    <div class="clearfix"></div>
+                                </header>
+                            
+                                {!! base64_decode($detail->content) !!}
 
-                            <script type="text/javascript">
+                                <script type="text/javascript">
 
-                                // Javascript to enable link to tab
-                                var url = document.location.toString();
-                                if (url.match('#')) {
-                                    jQuery('.nav-tabs a[href="#' + url.split('#')[1] + '"]').tab('show');
-                                }
+                                    // Javascript to enable link to tab
+                                    var url = document.location.toString();
+                                    if (url.match('#')) {
+                                        jQuery('.nav-tabs a[href="#' + url.split('#')[1] + '"]').tab('show');
+                                    }
 
-                                // Change hash for page-reload
-                                jQuery('.nav-tabs a').on('shown.bs.tab', function (e) {
-                                    window.location.hash = e.target.hash;
-                                })
+                                    // Change hash for page-reload
+                                    jQuery('.nav-tabs a').on('shown.bs.tab', function (e) {
+                                        window.location.hash = e.target.hash;
+                                    })
 
-                            </script>
-                        </article>
+                                </script>
+                            </article>
+                        @endif
                         <!-- #post-## -->
                         {{-- <div class="fYeuCau">
                             <h3>Điền thông tin để nhận báo giá trong 5'</h3>

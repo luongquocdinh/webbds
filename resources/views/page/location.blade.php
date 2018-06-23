@@ -38,90 +38,32 @@
                 <div id="contentPost" class="col-md-8">
                     <main id="main" class="site-main" role="main">
 
-                        <article id="post-863" class="post-863 post type-post status-publish format-standard has-post-thumbnail hentry category-charmington-iris">
-                            <header class="entry-header page-header">
-                                <h1 class="entry-title ">Vị trí địa chỉ dự án căn hộ Charmington Iris Quận 4</h1>
-                                <span class="linehome"></span>
-                                <div class="clearfix"></div>
-                            </header>
-                            <!-- .entry-header -->
-                            <div class="entry-content">
-                                <p>
-                                    <strong>Vị trí địa chỉ dự án căn hộ Charmington Iris Quận 4 tọa lạc tại 76 Tôn Thất Thuyết, Phường 16, Quận 4 và được giới
-                                        chuyên môn đánh giá là VỊ TRÍ có view nhìn triệu đô.</strong>
-                                </p>
-                                <div id="attachment_210" style="width: 1110px" class="wp-caption aligncenter">
-                                    <img class="size-full wp-image-210" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/dia-chi-vi-tri-du-an-can-ho-charmington-iris-quan-4-nhan-mua-ban-lai-cho-thue-can-ho-charmington-q4.jpg"
-                                    alt="Vị trí địa chỉ dự án căn hộ chung cư Charmington Iris Quận 4 chủ đầu tư TTC Land" width="1100" height="849"
-                                    srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/dia-chi-vi-tri-du-an-can-ho-charmington-iris-quan-4-nhan-mua-ban-lai-cho-thue-can-ho-charmington-q4.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/dia-chi-vi-tri-du-an-can-ho-charmington-iris-quan-4-nhan-mua-ban-lai-cho-thue-can-ho-charmington-q4-300x232.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/dia-chi-vi-tri-du-an-can-ho-charmington-iris-quan-4-nhan-mua-ban-lai-cho-thue-can-ho-charmington-q4-768x593.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/dia-chi-vi-tri-du-an-can-ho-charmington-iris-quan-4-nhan-mua-ban-lai-cho-thue-can-ho-charmington-q4-1024x790.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/dia-chi-vi-tri-du-an-can-ho-charmington-iris-quan-4-nhan-mua-ban-lai-cho-thue-can-ho-charmington-q4-180x139.jpg 180w"
-                                    sizes="(max-width: 1100px) 100vw, 1100px" />
-                                    <p class="wp-caption-text">Vị trí địa chỉ dự án căn hộ chung cư Charmington Iris Quận 4 chủ đầu tư TTC Land</p>
-                                </div>
-                                <p>Nếu từ
-                                    <a href="http://thecharmingtoniris.com/gioi-thieu/vi-tri-du-can-ho-charmington-iris-quan-4/"> vị trí dự án căn hộ Charmington Iris </a>di chuyển qua cầu Khánh Hội hoặc cầu Calmette tới quận 1 không quá 5 phút</p>
-                                <p>– Mất 5 phút di chuyển đến Quận 1 qua cầu Khánh Hội hoặc cầu Calmette ( 1,2km)</p>
-                                <p>– Chỉ 10 phút sẽ dừng chân tại Phú Mỹ Hưng (3,5km)</p>
-                                <p>– Chỉ 10 phút sẽ có mặt tại Quận 2 nếu đi Hầm Thủ Thiêm. Dự kiến 2020 cầu Thủ Thiêm 3 được đưa vào hoạt động, thời
-                                    gian di chuyển qua quận 2 chưa tới 5 phút.</p>
-                                <p>Vị trí dự án
-                                    <a href="http://thecharmingtoniris.com/">
-                                        <strong> căn hộ Charmington Iris</strong>
-                                    </a>với lợi thế một mặt giáp trực diện sông Sài Gòn và đối diện đó là khu đô thị sầm uất Thủ Thiêm. và mặt còn lại
-                                    là tầm nhìn bao quát Sài Gòn tráng lệ</p>
-                                <p>Tầm nhìn thực tế bao quát sông Sài Gòn và Quận 1, Quận 2 vào ban đêm của dự án Charmington Iris</p>
-                                <p>Trong phạm vi bán kính 2km, có rất nhiều các khu thương mại – giáo dục – giải trí. Không hề quá phô trương khi nói
-                                    rằng Charmington Iris chính là một viên ngọc sáng quý hiếm giữa lòng thành phố xa hoa bậc nhất Việt Nam.</p>
-                                <p>View trực diện sông Sài Gòn và khu đô thị Thủ Thiêm quận 2.</p>
-                                <p>
-                                    <strong>
-                                        <em>Thông tin chi tiết bán hàng vui lòng liên hệ bộ phận chăm sóc bán hàng dự án Charmington Iris</em>
-                                    </strong>
-                                </p>
-                                <p>
-                                    <em>Địa chỉ: 66 Nguyễn Ngọc Phương, Phường 19, Quận Bình Thạnh, Tp Hồ Chí Minh.</em>
-                                </p>
-                                <p>
-                                    <em>
-                                        <strong>Chăm sóc khách hàng căn hộ Charmington Iris :
-                                            <span style="color: #ff0000;"> </span>
-                                        </strong>
-                                    </em>
-                                    <span style="color: #ff0000;">
-                                        <strong>
-                                            <em>0901.257.979</em>
-                                        </strong>
-                                    </span>
-                                    <em>(Phone, Viber, Zalo, iMessage, Wechat, Whatsapp)</em>
-                                </p>
-                                <p>
-                                    <em>Website : </em>
-                                    <span style="color: #3366ff;">
-                                        <a href="{{ route('home') }}">
-                                            <em>charmingtonirisvietnam.com</em>
-                                        </a>
-                                    </span>
-                                </p>
-                                {{-- <p style="text-align: center;">
-                                    <em>Hoặc đăng ký nhận bảng giá, thông tin dự án Charmington Iris Quận 4 tại đây</em>
-                                </p> --}}
-                            </div>
-                            <!-- .entry-content -->
+                            @if (isset($detail))
+                            <article id="post-858" class="post-858 post type-post status-publish format-standard has-post-thumbnail hentry category-charmington-iris tag-ban-can-ho-charmington-iris tag-can-ho-charmington-iris tag-charmington-iris tag-chung-cu-charmington-iris tag-du-an-charmington-iris tag-gioi-thieu-charmington-iris">
+                                <header class="entry-header page-header">
+                                    <h1 class="entry-title ">{{ $detail->title }}</h1>
+                                    <span class="linehome"></span>
+                                    <div class="clearfix"></div>
+                                </header>
+                            
+                                {!! base64_decode($detail->content) !!}
 
-                            <script type="text/javascript">
+                                <script type="text/javascript">
 
-                                // Javascript to enable link to tab
-                                var url = document.location.toString();
-                                if (url.match('#')) {
-                                    jQuery('.nav-tabs a[href="#' + url.split('#')[1] + '"]').tab('show');
-                                }
+                                    // Javascript to enable link to tab
+                                    var url = document.location.toString();
+                                    if (url.match('#')) {
+                                        jQuery('.nav-tabs a[href="#' + url.split('#')[1] + '"]').tab('show');
+                                    }
 
-                                // Change hash for page-reload
-                                jQuery('.nav-tabs a').on('shown.bs.tab', function (e) {
-                                    window.location.hash = e.target.hash;
-                                })
+                                    // Change hash for page-reload
+                                    jQuery('.nav-tabs a').on('shown.bs.tab', function (e) {
+                                        window.location.hash = e.target.hash;
+                                    })
 
-                            </script>
-                        </article>
+                                </script>
+                            </article>
+                        @endif
                         <!-- #post-## -->
                         {{-- <div class="fYeuCau">
                             <h3>Điền thông tin để nhận báo giá trong 5'</h3>

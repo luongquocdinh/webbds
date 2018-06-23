@@ -37,106 +37,32 @@
             <div class=" row  ">
                 <div id="contentPost" class="col-md-8">
                     <main id="main" class="site-main" role="main">
-                        <article id="post-865" class="post-865 post type-post status-publish format-standard has-post-thumbnail hentry category-charmington-iris">
-                            <header class="entry-header page-header">
-                                <h1 class="entry-title ">Tiện ích dự án căn hộ Charmington Iris Quận 4</h1>
-                                <span class="linehome"></span>
-                                <div class="clearfix"></div>
-                            </header>
-                            <!-- .entry-header -->
-                            <div class="entry-content">
-                                <p style="text-align: justify;">
-                                    <strong>
-                                        <a href="{{ route('home') }}">Tiện ích căn hộ Charmington Iris</a> được tập đoàn TTC Land đầu tư tỷ mỹ và chăm chút đến từng tiện ích cho cư
-                                        dân Charmington Iris Quận 4</strong>
-                                </p>
-                                <p style="text-align: justify;">
-                                    <strong>Mặt tiền Charmington Iris sang trọng đẳng cấp </strong>
-                                </p>
-                                <div id="attachment_200" style="width: 1128px" class="wp-caption aligncenter">
-                                    <img class=" wp-image-200" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/can-ho-chung-cu-charmington-iris-quan-4-truc-dien-song-sai-gon-gia-tot-nhat-quan-4-hinh-01.jpg"
-                                     alt="Nhận mua bán ký gửi cho thuê dự án căn hộ Charmington Iris Quận 4 cao cấp giá rẻ nhất q4" width="1118" height="513"
-                                     srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/can-ho-chung-cu-charmington-iris-quan-4-truc-dien-song-sai-gon-gia-tot-nhat-quan-4-hinh-01.jpg 1500w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/can-ho-chung-cu-charmington-iris-quan-4-truc-dien-song-sai-gon-gia-tot-nhat-quan-4-hinh-01-300x138.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/can-ho-chung-cu-charmington-iris-quan-4-truc-dien-song-sai-gon-gia-tot-nhat-quan-4-hinh-01-768x352.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/can-ho-chung-cu-charmington-iris-quan-4-truc-dien-song-sai-gon-gia-tot-nhat-quan-4-hinh-01-1024x470.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/can-ho-chung-cu-charmington-iris-quan-4-truc-dien-song-sai-gon-gia-tot-nhat-quan-4-hinh-01-180x83.jpg 180w"
-                                     sizes="(max-width: 1118px) 100vw, 1118px" />
-                                    <p class="wp-caption-text">Mặt tiền sang trọng đẳng cấp Charmington Iris</p>
-                                </div>
-                                <p style="text-align: justify;">Công viên trung tâm tại tầng trệt dự án Charmington Iris tích hợp mọi tiện tích và công năng để phục vụ cho cư dân
-                                    như: mật độ cây xanh bóng mát rộng lớn, khu tập thể dục với thiết bị tập tiêu chuẩn dành cho người lớn, khu vực
-                                    vui chơi cho trẻ em..</p>
-                                <p style="text-align: justify;">
-                                    <strong>Hồ bơi trung tâm ngay tại tầng trệt rộng hơn 500m2.</strong> Thiết kế đối lưu và hài hòa giữa mộc &#8211; khí &#8211;
-                                    thủy, quần tụ giữa lòng dự án, tạo nên khung cảnh an nhiên.</p>
-                                <div id="attachment_240" style="width: 1110px" class="wp-caption aligncenter">
-                                    <img class="wp-image-240" title="Hồ bơi trung tâm ngay tại tầng trệt rộng hơn 500m2 căn hộ Charmington Iris Quận 4"
-                                     src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/ho-boi-du-can-can-ho-charmington-iris-quan-4-nhan-mua-ban-lai-cho-thue-can-ho-charmington.jpg"
-                                     alt="Hồ bơi trung tâm ngay tại tầng trệt rộng hơn 500m2 căn hộ Charmington Iris Quận 4" width="1100" height="617"
-                                     srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/ho-boi-du-can-can-ho-charmington-iris-quan-4-nhan-mua-ban-lai-cho-thue-can-ho-charmington.jpg 820w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/ho-boi-du-can-can-ho-charmington-iris-quan-4-nhan-mua-ban-lai-cho-thue-can-ho-charmington-300x168.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/ho-boi-du-can-can-ho-charmington-iris-quan-4-nhan-mua-ban-lai-cho-thue-can-ho-charmington-768x431.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/ho-boi-du-can-can-ho-charmington-iris-quan-4-nhan-mua-ban-lai-cho-thue-can-ho-charmington-180x101.jpg 180w"
-                                     sizes="(max-width: 1100px) 100vw, 1100px" />
-                                    <p class="wp-caption-text">Hồ bơi trung tâm ngay tại tầng trệt rộng hơn 500m2
-                                        <a href="{{ route('home') }}"> căn hộ Charmington Iris Quận 4</a>
-                                    </p>
-                                </div>
-                                <p>Nhằm tăng tối đa dịch vụ cho quý cư dân, 14 Shophouse được thiết kế ngay tại tầng trệt của dự án Charmington Iris
-                                    để phát triển các mảng dịch vụ mà Quý cư dân cần.</p>
-                                <div id="attachment_245" style="width: 1110px" class="wp-caption aligncenter">
-                                    <img class="size-full wp-image-245" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/phoi-canh-tong-the-tien-ich-can-ho-charmington-iris-quan-4.jpg"
-                                     alt="Khu vườn trên không dự án căn hộ Charmington Iris Quận 4" width="1100" height="774" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/phoi-canh-tong-the-tien-ich-can-ho-charmington-iris-quan-4.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/phoi-canh-tong-the-tien-ich-can-ho-charmington-iris-quan-4-300x211.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/phoi-canh-tong-the-tien-ich-can-ho-charmington-iris-quan-4-768x540.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/phoi-canh-tong-the-tien-ich-can-ho-charmington-iris-quan-4-1024x721.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/phoi-canh-tong-the-tien-ich-can-ho-charmington-iris-quan-4-180x127.jpg 180w"
-                                     sizes="(max-width: 1100px) 100vw, 1100px" />
-                                    <p class="wp-caption-text">Khu vườn trên không dự án căn hộ Charmington Iris Quận 4</p>
-                                </div>
-                                <p style="text-align: justify;">Một trong nhữn nét nỗi trôi tiện ích bên trong dự án Charmington Iris là khu vườn trung tâm trên mái khối đế với
-                                    tầm nhìn 360
-                                    <sup>0</sup> toàn cảnh Sài Gòn. Khi đêm xuống có thể kết hợp nhiều tiện ích khu đồ nướng BBQ v.v… dành cho cư dân sống
-                                    tại các căn hộ cao cấp.</p>
-                                <div id="attachment_254" style="width: 1110px" class="wp-caption aligncenter">
-                                    <img class="wp-image-254" title="Khu vực nhà hàng cà phê dự án Charmington Iris Quận 4" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/tien-ich-can-ho-chung-cu-charmington-iris-quan-4-chu-dau-tu-sacomreal-04.jpg"
-                                     alt="Khu vực nhà hàng cà phê dự án Charmington Iris Quận 4" width="1100" height="625" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/tien-ich-can-ho-chung-cu-charmington-iris-quan-4-chu-dau-tu-sacomreal-04.jpg 820w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/tien-ich-can-ho-chung-cu-charmington-iris-quan-4-chu-dau-tu-sacomreal-04-300x170.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/tien-ich-can-ho-chung-cu-charmington-iris-quan-4-chu-dau-tu-sacomreal-04-768x436.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/tien-ich-can-ho-chung-cu-charmington-iris-quan-4-chu-dau-tu-sacomreal-04-180x102.jpg 180w"
-                                     sizes="(max-width: 1100px) 100vw, 1100px" />
-                                    <p class="wp-caption-text">Khu vực nhà hàng cà phê dự án Charmington Iris Quận 4</p>
-                                </div>
-                                <p style="text-align: justify;">Với mô hình kiến trúc xanh và hiện đại, các căn hộ được thiết kế thông minh, nhằm tối ưu hóa diện tích sử dụng đồng
-                                    thời tăng cường tối đa sự giao hòa với thiên nhiên bằng các lô gia, vách kính và hệ thống cửa hiện đại… Vẻ đẹp
-                                    lộng lẫy, kết hợp lối kiến trúc hiện đại và nghệ thuật kiến tạo cảnh quan, Charmington Iris sẽ là một công trình
-                                    tiêu biểu tại thành phố Hồ Chí Minh trong tương lai.</p>
-                                <p>
-                                    <strong>Thông tin chi tiết bán hàng vui lòng liên hệ bộ phận chăm sóc bán hàng dự án Charmington Iris</strong>
-                                </p>
-                                <p>
-                                    <em>Địa chỉ: 66 Nguyễn Ngọc Phương, Phường 19, Quận Bình Thạnh, Tp Hồ Chí Minh.</em>
-                                </p>
-                                <p>
-                                    <em>Chăm sóc khách hàng căn hộ Charmington Iris : </em>
-                                    <span style="color: #ff0000;">
-                                        <strong>0901.257.979</strong>
-                                    </span>
-                                    <em> </em>
-                                    <em>(Phone, Viber, Zalo, iMessage, Wechat, Whatsapp)</em>
-                                </p>
-                                <p>
-                                    <em>Website : </em>
-                                    <a href="{{ route('home') }}">charmingtonirisvietnam.com</a>
-                                </p>
-                                {{-- <p style="text-align: center;">
-                                    <em>Hoặc đăng ký nhận bảng giá, tiến độ dự án Charmington Iris Quận 4 tại đây</em>
-                                </p> --}}
-                            </div>
-                            <!-- .entry-content -->
+                        @if (isset($detail))
+                            <article id="post-858" class="post-858 post type-post status-publish format-standard has-post-thumbnail hentry category-charmington-iris tag-ban-can-ho-charmington-iris tag-can-ho-charmington-iris tag-charmington-iris tag-chung-cu-charmington-iris tag-du-an-charmington-iris tag-gioi-thieu-charmington-iris">
+                                <header class="entry-header page-header">
+                                    <h1 class="entry-title ">{{ $detail->title }}</h1>
+                                    <span class="linehome"></span>
+                                    <div class="clearfix"></div>
+                                </header>
+                            
+                                {!! base64_decode($detail->content) !!}
 
-                            <script type="text/javascript">
+                                <script type="text/javascript">
 
-                                // Javascript to enable link to tab
-                                var url = document.location.toString();
-                                if (url.match('#')) {
-                                    jQuery('.nav-tabs a[href="#' + url.split('#')[1] + '"]').tab('show');
-                                }
+                                    // Javascript to enable link to tab
+                                    var url = document.location.toString();
+                                    if (url.match('#')) {
+                                        jQuery('.nav-tabs a[href="#' + url.split('#')[1] + '"]').tab('show');
+                                    }
 
-                                // Change hash for page-reload
-                                jQuery('.nav-tabs a').on('shown.bs.tab', function (e) {
-                                    window.location.hash = e.target.hash;
-                                })
+                                    // Change hash for page-reload
+                                    jQuery('.nav-tabs a').on('shown.bs.tab', function (e) {
+                                        window.location.hash = e.target.hash;
+                                    })
 
-                            </script>
-                        </article>
+                                </script>
+                            </article>
+                        @endif
                         <!-- #post-## -->
                         {{-- <div class="fYeuCau">
                             <h3>Điền thông tin để nhận báo giá trong 5'</h3>

@@ -39,288 +39,32 @@
                 <div id="contentPost" class="col-md-8">
                     <main id="main" class="site-main" role="main">
 
-                        <article id="post-869" class="post-869 post type-post status-publish format-standard has-post-thumbnail hentry category-charmington-iris">
-                            <header class="entry-header page-header">
-                                <h1 class="entry-title ">THIẾT KẾ NHÀ MẪU CHARMINGTON IRIS</h1>
-                                <span class="linehome"></span>
-                                <div class="clearfix"></div>
-                            </header>
-                            <!-- .entry-header -->
-                            <div class="entry-content">
-                                <p style="text-align: justify;">
-                                    <strong>Nhà mẫu dự án căn hộ Charmington Iris Quận 4 được đầu tư thiết kế kỹ lưỡng và chăm chút đến từng chi tiết. Căn
-                                        hộ mẫu Charmington Iris được thiết kế loại 2 phòng ngủ và 3 phòng ngủ, Quý khách hàng có thể tham khảo các mẫu
-                                        thiết kế căn hộ Charmington Iris Quận 4 dưới đây.</strong>
-                                </p>
-                                <ul>
-                                    <li style="text-align: justify;">Ban công thiết kế bố trí được khu vực trồng cây xanh để gia tăng mảng xanh cho chính căn hộ.</li>
-                                    <li style="text-align: justify;">Khu vực phòng khách Charmington Iris không giới hạn tầm nhìn về Thành Phố và Sông Sài Gòn và hàng nghìn tiện ích</li>
-                                    <li style="text-align: justify;">Khu bếp được đầu tư và trang bị đầy đủ: Tủ bếp trên + Tủ bếp dưới + Máy hút mùi + Bếp điện từ + Nước lọc tại vòi.</li>
-                                </ul>
-                                <div class="responsive-tabs">
-                                    <h2 class="tabtitle">NHÀ MẪU 2PN-2WC</h2>
-                                    <div class="tabcontent">
+                        @if (isset($detail))
+                            <article id="post-858" class="post-858 post type-post status-publish format-standard has-post-thumbnail hentry category-charmington-iris tag-ban-can-ho-charmington-iris tag-can-ho-charmington-iris tag-charmington-iris tag-chung-cu-charmington-iris tag-du-an-charmington-iris tag-gioi-thieu-charmington-iris">
+                                <header class="entry-header page-header">
+                                    <h1 class="entry-title ">{{ $detail->title }}</h1>
+                                    <span class="linehome"></span>
+                                    <div class="clearfix"></div>
+                                </header>
+                            
+                                {!! base64_decode($detail->content) !!}
 
-                                        <div id="attachment_311" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="size-full wp-image-311" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-01.jpg"
-                                            alt="Thiết kế căn hộ 2 PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="619" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-01.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-01-300x169.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-01-768x432.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-01-1024x576.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-01-180x101.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Thiết kế căn hộ 2 PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <div id="attachment_312" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="size-full wp-image-312" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-02.jpg"
-                                            alt="Thiết kế căn hộ 2 PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="619" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-02.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-02-300x169.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-02-768x432.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-02-1024x576.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-02-180x101.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Thiết kế căn hộ 2 PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <div id="attachment_313" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="size-full wp-image-313" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-03.jpg"
-                                            alt="Phòng khách căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="619" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-03.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-03-300x169.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-03-768x432.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-03-1024x576.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-03-180x101.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Phòng khách căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <div id="attachment_314" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="size-full wp-image-314" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-04.jpg"
-                                            alt="Phòng khách căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="619" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-04.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-04-300x169.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-04-768x432.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-04-1024x576.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-04-180x101.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Phòng khách căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <div id="attachment_315" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="size-full wp-image-315" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-05.jpg"
-                                            alt="Phòng khách căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="619" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-05.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-05-300x169.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-05-768x432.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-05-1024x576.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-05-180x101.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Phòng khách căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <div id="attachment_316" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="size-full wp-image-316" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-06.jpg"
-                                            alt="Phòng khách căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="619" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-06.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-06-300x169.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-06-768x432.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-06-1024x576.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-06-180x101.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Phòng khách căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <div id="attachment_317" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="size-full wp-image-317" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-07.jpg"
-                                            alt="Phòng khách căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="619" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-07.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-07-300x169.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-07-768x432.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-07-1024x576.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-07-180x101.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Phòng khách căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <div id="attachment_318" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="size-full wp-image-318" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-08.jpg"
-                                            alt="Phòng khách căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="619" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-08.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-08-300x169.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-08-768x432.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-08-1024x576.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-08-180x101.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Phòng khách căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <div id="attachment_325" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="size-full wp-image-325" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-15.jpg"
-                                            alt="" width="1100" height="660" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-15.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-15-300x180.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-15-768x461.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-15-1024x614.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-15-180x108.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Nha mau can ho 2 phong ngu du an can ho chung cu charmington iris quan 4</p>
-                                        </div>
-                                        <div id="attachment_326" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="size-full wp-image-326" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-16.jpg"
-                                            alt="Phòng khách căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="707" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-16.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-16-300x193.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-16-768x494.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-16-1024x658.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-16-180x116.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Phòng khách căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <div id="attachment_327" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="size-full wp-image-327" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-17.jpg"
-                                            alt="Phòng khách căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="707" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-17.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-17-300x193.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-17-768x494.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-17-1024x658.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-17-180x116.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Phòng khách căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <div id="attachment_329" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="size-full wp-image-329" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-19.jpg"
-                                            alt="Phòng khách căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="707" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-19.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-19-300x193.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-19-768x494.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-19-1024x658.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-19-180x116.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Phòng khách căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <div id="attachment_330" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="size-full wp-image-330" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-20.jpg"
-                                            alt="Phòng khách căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="707" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-20.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-20-300x193.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-20-768x494.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-20-1024x658.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-20-180x116.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Phòng khách căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <div id="attachment_328" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="wp-image-328 size-full" title="Phòng ngủ căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-18.jpg"
-                                            alt="Phòng ngủ căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="538" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-18.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-18-300x147.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-18-768x376.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-18-1024x501.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-18-180x88.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Phòng ngủ căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <div id="attachment_325" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="wp-image-325 size-full" title="Phòng ngủ căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-15.jpg"
-                                            alt="Phòng ngủ căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="660" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-15.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-15-300x180.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-15-768x461.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-15-1024x614.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-15-180x108.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Phòng ngủ căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <div id="attachment_324" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="wp-image-324 size-full" title="Phòng ngủ căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-14.jpg"
-                                            alt="Phòng ngủ căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="678" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-14.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-14-300x185.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-14-768x473.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-14-1024x631.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-14-180x111.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Phòng ngủ căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <div id="attachment_319" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="wp-image-319 size-full" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-09.jpg"
-                                            alt="Phòng ngủ căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="619" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-09.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-09-300x169.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-09-768x432.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-09-1024x576.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-09-180x101.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Phòng ngủ căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <p>
-                                            <img class="size-full wp-image-320 aligncenter" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-10.jpg"
-                                            alt="" width="1100" height="619" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-10.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-10-300x169.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-10-768x432.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-10-1024x576.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-10-180x101.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                        </p>
-                                        <div id="attachment_318" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="wp-image-318 size-full" title="Phòng ngủ căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-08.jpg"
-                                            alt="Phòng ngủ căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="619" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-08.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-08-300x169.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-08-768x432.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-08-1024x576.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-08-180x101.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Phòng ngủ căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <div id="attachment_323" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="wp-image-323 size-full" title="Phòng ngủ căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-13.jpg"
-                                            alt="v" width="1100" height="619" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-13.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-13-300x169.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-13-768x432.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-13-1024x576.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-13-180x101.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Phòng ngủ căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <div id="attachment_322" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="wp-image-322 size-full" title="Phòng ngủ căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-12.jpg"
-                                            alt="Phòng ngủ căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="619" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-12.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-12-300x169.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-12-768x432.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-12-1024x576.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-12-180x101.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Phòng ngủ căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <div id="attachment_321" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="wp-image-321 size-full" title="Phòng ngủ căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-11.jpg"
-                                            alt="Phòng ngủ căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="619" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-11.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-11-300x169.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-11-768x432.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-11-1024x576.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-2-phong-ngu-du-an-charmington-iris-quan-4-11-180x101.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Phòng ngủ căn hộ 2PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
+                                <script type="text/javascript">
 
-                                    </div>
-                                    <h2 class="tabtitle">NHÀ MẪU 3PN-2WC</h2>
-                                    <div class="tabcontent">
+                                    // Javascript to enable link to tab
+                                    var url = document.location.toString();
+                                    if (url.match('#')) {
+                                        jQuery('.nav-tabs a[href="#' + url.split('#')[1] + '"]').tab('show');
+                                    }
 
-                                        <div id="attachment_336" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="size-full wp-image-336" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-01.jpg"
-                                            alt="Thiết kế căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="619" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-01.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-01-300x169.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-01-768x432.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-01-1024x576.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-01-180x101.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Thiết kế căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <div id="attachment_338" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="size-full wp-image-338" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-02.jpg"
-                                            alt="Thiết kế căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="619" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-02.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-02-300x169.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-02-768x432.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-02-1024x576.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-02-180x101.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Thiết kế căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <div id="attachment_342" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="wp-image-342 size-full" title="Phòng khách căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-06.jpg"
-                                            alt="Phòng khách căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="619" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-06.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-06-300x169.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-06-768x432.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-06-1024x576.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-06-180x101.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Phòng khách căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <div id="attachment_341" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="wp-image-341 size-full" title="Phòng khách căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-05.jpg"
-                                            alt="Phòng khách căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="619" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-05.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-05-300x169.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-05-768x432.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-05-1024x576.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-05-180x101.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Phòng khách căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <div id="attachment_340" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="wp-image-340 size-full" title="Phòng khách căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-04.jpg"
-                                            alt="Phòng khách căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="619" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-04.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-04-300x169.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-04-768x432.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-04-1024x576.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-04-180x101.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Phòng khách căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <div id="attachment_339" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="wp-image-339 size-full" title="Khu vực bếp căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4" src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-03.jpg"
-                                            alt="Khu vực bếp căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="619" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-03.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-03-300x169.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-03-768x432.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-03-1024x576.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-03-180x101.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Khu vực bếp căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <div id="attachment_343" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="wp-image-343 size-full" title="Khu nhà vệ sinh căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4"
-                                            src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-07.jpg"
-                                            alt="Khu nhà vệ sinh căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="619" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-07.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-07-300x169.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-07-768x432.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-07-1024x576.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-07-180x101.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Khu nhà vệ sinh căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <div id="attachment_344" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="wp-image-344 size-full" title="Phòng đa năng căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4"
-                                            src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-08.jpg"
-                                            alt="Phòng đa năng căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="619" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-08.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-08-300x169.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-08-768x432.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-08-1024x576.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-08-180x101.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Phòng đa năng căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <div id="attachment_345" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="wp-image-345 size-full" title="Phòng đa năng căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4"
-                                            src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-09.jpg"
-                                            alt="Phòng đa năng căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="619" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-09.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-09-300x169.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-09-768x432.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-09-1024x576.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-09-180x101.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Phòng đa năng căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <div id="attachment_346" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="wp-image-346 size-full" title="Phòng ngủ nhỏ căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4"
-                                            src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-10.jpg"
-                                            alt="Phòng ngủ nhỏ căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="619" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-10.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-10-300x169.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-10-768x432.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-10-1024x576.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-10-180x101.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Phòng ngủ nhỏ căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <div id="attachment_347" style="width: 1110px" class="wp-caption aligncenter">
-                                            <img class="wp-image-347 size-full" title="Phòng ngủ nhỏ căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4"
-                                            src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-11.jpg"
-                                            alt="Phòng ngủ nhỏ căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="619" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-11.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-11-300x169.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-11-768x432.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-11-1024x576.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-11-180x101.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Phòng ngủ nhỏ căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                        <div id="attachment_348" style="width: 1110px" class="wp-caption alignnone">
-                                            <img class="wp-image-348 size-full" title="Phòng ngủ master căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4"
-                                            src="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-12.jpg"
-                                            alt="Phòng ngủ master căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4" width="1100" height="619" srcset="http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-12.jpg 1100w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-12-300x169.jpg 300w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-12-768x432.jpg 768w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-12-1024x576.jpg 1024w, http://thecharmingtoniris.com/wp-content/uploads/2017/10/nha-mau-can-ho-3-phong-ngu-du-an-charmington-iris-quan-4-12-180x101.jpg 180w"
-                                            sizes="(max-width: 1100px) 100vw, 1100px" />
-                                            <p class="wp-caption-text">Phòng ngủ master căn hộ 3PN-2WC dự án căn hộ Charmington Iris Quận 4</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <p style="text-align: center;">
-                                    <span style="color: #ff0000;">
-                                        <strong>NHẬN MUA BÁN – KÝ GỬI – CHO THUÊ THIẾT KẾ NỘI THẤT CĂN HỘ CHARMINGTON IRIS QUẬN 4</strong>
-                                    </span>
-                                </p>
-                                <p>
-                                    <strong>Thông tin chi tiết bán hàng vui lòng liên hệ bộ phận chăm sóc bán hàng dự án Charmington Iris</strong>
-                                </p>
-                                <p>
-                                    <em>Địa chỉ: 66 Nguyễn Ngọc Phương, Phường 19, Quận Bình Thạnh, Tp Hồ Chí Minh.</em>
-                                </p>
-                                <p>
-                                    <em>Chăm sóc khách hàng căn hộ Charmington Iris : </em>
-                                    <span style="color: #ff0000;">
-                                        <strong>0901.257.979</strong>
-                                    </span>
-                                    <em>(Phone, Viber, Zalo, iMessage, Wechat, Whatsapp)</em>
-                                </p>
-                                <p>
-                                    <em>Website : </em>
-                                    <a href="{{ route('home') }}">charmingtonirisvietnam.com</a>
-                                </p>
-                                {{-- <p style="text-align: center;">
-                                    <em>Hoặc đăng ký nhận bảng giá, tiến độ
-                                        <a href="http://thecharmingtoniris.com/">dự án Charmington Iris</a> Quận 4 tại đây</em>
-                                </p> --}}
-                            </div>
-                            <!-- .entry-content -->
+                                    // Change hash for page-reload
+                                    jQuery('.nav-tabs a').on('shown.bs.tab', function (e) {
+                                        window.location.hash = e.target.hash;
+                                    })
 
-                            <script type="text/javascript">
-
-                                // Javascript to enable link to tab
-                                var url = document.location.toString();
-                                if (url.match('#')) {
-                                    jQuery('.nav-tabs a[href="#' + url.split('#')[1] + '"]').tab('show');
-                                }
-
-                                // Change hash for page-reload
-                                jQuery('.nav-tabs a').on('shown.bs.tab', function (e) {
-                                    window.location.hash = e.target.hash;
-                                })
-
-                            </script>
-                        </article>
+                                </script>
+                            </article>
+                        @endif
                         <!-- #post-## -->
                         {{-- <div class="fYeuCau">
                             <h3>Điền thông tin để nhận báo giá trong 5'</h3>
